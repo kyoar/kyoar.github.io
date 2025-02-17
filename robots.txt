@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kyoar.csgad.com/OfU/sitemap.xml.gz
